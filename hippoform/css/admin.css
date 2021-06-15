@@ -1,0 +1,35 @@
+.contact-list-data table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.contact-list-data {
+    margin: 30px 20px 0 0px;
+    background: #fff;
+    padding: 20px;
+}
+.contact-list-data table th {
+    background: #0073aa;
+    color: #fff;
+    width: auto;
+    padding: 15px;
+    text-align: left;
+}
+
+.contact-list-data tbody {
+    border: 1px solid #e6e6e6;
+}
+.contact-list-data tbody tr {
+    border-bottom: 1px solid #e6e6e6;
+}
+.contact-list-data tbody tr td {
+    padding: 15px;
+    border-left: 1px solid #e6e6e6;
+}
+
+.shortcode-block{font-size:18px; margin:30px; font-weight:bold;}
+  
+.Recaptcha-fields-block{ padding:30px; border:1px solid #ccc; width:65%}  
+.Recaptcha-fields-block span{width:15%; display:inline-block; line-height:45px;}
+.Recaptcha-fields-block input{width:80%; padding:0 0 0 15px; line-height:45px;}
+.Recaptcha-fields-block input.button{width:auto; padding:0 30px; height:45px; margin-left:15%;}
